@@ -18,21 +18,6 @@ The program is aligned with the **UNDP Digital Strategy**, advancing:
 
 ---
 
-## 📂 Repository Structure
-
-```bash
-.
-├── lab1_logistic_regression/       # Binary classifier for river plastic pollution
-├── lab2_kmeans_clustering/         # K-Means clustering on river datasets
-├── lab3_bert_sentiment_classification/  # BERT-based tweet sentiment analysis
-├── lab4_plastic_cnn_classifier/    # CNN model for plastic type classification
-├── deployment/                     # Gradio app + Docker + AWS deployment setup
-├── models/                         # Saved Keras models (.h5) and training logs
-└── README.md
-```
-
----
-
 ## 🚀 Highlight Projects
 
 ### 1. Plastic Waste Classifier (CNN + Web App)
